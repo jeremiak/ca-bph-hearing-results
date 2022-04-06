@@ -24,20 +24,28 @@ async function scrapeResults(url) {
     const $ = cheerio.load(html)
     const rows = $('article table tbody tr')
     const data = []
-    const columns = [
-        'name',
-        'cdc',
-        'commitment-county',
-        'gov-code',
-        'scheduled-date',
-        'hearing-type',
-        'result',
-    ]
-
-    rows.each((i, el) => {
-        const row = $(el).find('td')
+    rows.each((i, row) => {
+        const cells = $(row).find('td')
+        const columns = cells.length === 8 ? [
+            'name',
+            'cdc',
+            'in-person',
+            'commitment-county',
+            'gov-code',
+            'scheduled-date',
+            'hearing-type',
+            'result',
+        ] : [
+            'name',
+            'cdc',
+            'commitment-county',
+            'gov-code',
+            'scheduled-date',
+            'hearing-type',
+            'result',
+        ]
         const d = {}
-        row.each((ii, cell) => {
+        cells.each((ii, cell) => {
             const text = $(cell).text()
             const col = columns[ii]
 
@@ -73,9 +81,7 @@ function merge(existing, current, keyFn) {
     return merged
 }
 
-
-
-// const resultsUrl = 'https://web.archive.org/web/20201223093748/https://www.cdcr.ca.gov/bph/2019/11/07/hearing-results-october-2019/'
+// const resultsUrl = 'https://www.cdcr.ca.gov/bph/2021/11/10/hearing-results-october-2021-2/'
 const resultsUrl = await scrapeResultsUrl()
 console.log(`🌎 Scraping ${resultsUrl}`)
 const results = await scrapeResults(resultsUrl)
