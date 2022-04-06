@@ -5,7 +5,7 @@ import cheerio from 'cheerio'
 import dayjs from 'dayjs'
 import fetch from 'isomorphic-fetch'
 
-const existingFile = await fs.readFile('./data/hearing-results.json')
+const existingFile = await fs.readFile('./hearing-results.json')
 const existing = JSON.parse(existingFile.toString())
 
 async function scrapeResultsUrl() {
@@ -91,4 +91,4 @@ const merged = merge(existing, results, d => {
 })
 console.log(`Saving all ${merged.length.toLocaleString('en-US')} hearing results`)
 const ordered = _.orderBy(merged, ['scheduled-date'])
-await fs.writeFile('./data/hearing-results.json', JSON.stringify(ordered, null, 2))
+await fs.writeFile('./hearing-results.json', JSON.stringify(ordered, null, 2))

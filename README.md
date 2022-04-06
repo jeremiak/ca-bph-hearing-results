@@ -1,9 +1,5 @@
-# Board of Parole scraper
+# Board of Parole suitability hearing results scraper
 
-Automatic scraping of CA Board of Parole Hearing data 
-## Sources
+_Source_: [CA BPH](https://www.cdcr.ca.gov/bph/parole-suitability-hearing-results/)
 
-Name | Source | Output | Action
--- | -- | -- | --
-Parole Suitability Hearing Results | [URL](https://www.cdcr.ca.gov/bph/parole-suitability-hearing-results/) | [`hearing-results.json`](https://github.com/jeremiak/ca-bph-scraper/blob/main/data/hearing-results.json) | [![Scrape BPH hearing results](https://github.com/jeremiak/ca-bph-scraper/actions/workflows/hearing-results.yml/badge.svg)](https://github.com/jeremiak/ca-bph-scraper/actions/workflows/hearing-results.yml)
-****
+[![Scrape BPH hearing results](https://github.com/jeremiak/ca-bph-scraper/actions/workflows/hearing-results.yml/badge.svg)](https://github.com/jeremiak/ca-bph-scraper/actions/workflows/hearing-results.yml)

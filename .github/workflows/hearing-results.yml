@@ -17,12 +17,12 @@ jobs:
     - name: Install Node dependencies
       run: npm install
     - name: Run scripts
-      run: node scrapers/hearing-results.mjs
+      run: node scrape.mjs
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add data/*
+        git add hearing-results.json
         git pull origin $GITHUB_REF
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
