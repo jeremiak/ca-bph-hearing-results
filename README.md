@@ -1,5 +1,6 @@
 # Board of Parole scraper
 
+Automatic scraping of CA Board of Parole Hearing data 
 ## Sources
 
 ### Parole Suitability Hearing Results
