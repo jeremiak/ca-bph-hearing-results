@@ -55,7 +55,7 @@ async function scrapeResults(url) {
                 const parsed = dayjs(date, "MMMM DD, YYYY")
                 d[col] = parsed.format('YYYY-MM-DD')
             } else {
-                d[col] = text.trim()
+                d[col] = text.trim().replace('\n', '')
             }
         })
         data.push(d)
@@ -85,10 +85,10 @@ function merge(existing, current, keyFn) {
 const resultsUrl = await scrapeResultsUrl()
 console.log(`🌎 Scraping ${resultsUrl}`)
 const results = await scrapeResults(resultsUrl)
-console.log(`Found ${results.length.toLocaleString('en-US')} hearing results`)
+console.log(`🥸 Found ${results.length.toLocaleString('en-US')} hearing results`)
 const merged = merge(existing, results, d => {
     return `${d.cdc}-${d['scheduled-date']}`
 })
-console.log(`Saving all ${merged.length.toLocaleString('en-US')} hearing results`)
+console.log(`💾 Saving all ${merged.length.toLocaleString('en-US')} hearing results`)
 const ordered = _.orderBy(merged, ['scheduled-date', 'name'])
 await fs.writeFile('./hearing-results.json', JSON.stringify(ordered, null, 2))
