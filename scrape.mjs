@@ -90,5 +90,5 @@ const merged = merge(existing, results, d => {
     return `${d.cdc}-${d['scheduled-date']}`
 })
 console.log(`Saving all ${merged.length.toLocaleString('en-US')} hearing results`)
-const ordered = _.orderBy(merged, ['scheduled-date'])
+const ordered = _.orderBy(merged, ['scheduled-date', 'name'])
 await fs.writeFile('./hearing-results.json', JSON.stringify(ordered, null, 2))
