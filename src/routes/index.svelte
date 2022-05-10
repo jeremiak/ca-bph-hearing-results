@@ -29,6 +29,7 @@
 
 <script>
   import { writable } from "svelte/store"
+  import GrantChart from "$lib/GrantChart.svelte";
 	import InmateSearch from "$lib/InmateSearch.svelte";
 
   export let stats = null
@@ -53,8 +54,22 @@
 <section>
   <h1>CA Board of Parole Hearing results</h1>
 
+  <div class="chart-graf-container">
+    <div class="grafs">
+      <p>Is the Board granting parole at a higher rate than normal? How did COVID-19 impact the parole hearing process?</p>
+      <p>In order to answer these questions we need a time series, machine-readable dataset. The state doesn't publish that, <a href="https://www.jeremiak.com/blog/ca-bph-parole-hearing-results-data/">but I do</a>.</p>
+      <div class="chart-container">
+        <GrantChart data={stats} />
+      </div>
+      <p>As we can see from the chart, the rate at which the Board grants parole is pretty consistent over the past few years.</p>
+      <p>And if you wanted to see all of the parole hearings for a particular person, the state doesn't publish that either. But I do! Use the form below to look for a specific perons's hearings.</p>
+    </div>
+
+  </div>
+
 	<InmateSearch on:selected={handleSelected} />
 
+  {#if $name}
   <table>
     <caption>Hearings for {$name || "--"}</caption>
     <thead>
@@ -84,6 +99,7 @@
       {/each}
     </tbody>
   </table>
+  {/if}
 
   <div class="source">
     <p>
@@ -102,6 +118,10 @@
     width: 90%;
   }
 
+  p {
+    // font-family: sans-serif;
+    line-height: 1.4rem;
+  }
   form {
     background-color: #eee;
     border-radius: 5px;
