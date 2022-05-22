@@ -6,9 +6,7 @@ import preprocess from 'svelte-preprocess';
 const config = {
     kit: {
         // include netlify adapter so routing is handled appropriately
-        adapter: adapter({
-            split: true
-        }),
+        adapter: adapter(),
         vite: {
             plugins: [dsv()]
         }
