@@ -37,6 +37,9 @@
     bind:value={name}
   />
   {#if $searchResults}
+    {#if $searchResults.length === 0}
+      <p style="text-align: center;">No matches for "{name}"</p>
+    {:else}
     <ul>
       {#each $searchResults as result}
         <li class="result">
@@ -47,6 +50,7 @@
         </li>
       {/each}
     </ul>
+    {/if}
   {/if}
   <button
     class="search-btn"
