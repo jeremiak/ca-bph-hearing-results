@@ -9,11 +9,6 @@ const config = {
         adapter: adapter({
             split: true
         }),
-
-        prerender: {
-            enabled: false,
-        },
-
         vite: {
             plugins: [dsv()]
         }
