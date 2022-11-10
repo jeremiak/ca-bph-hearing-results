@@ -12,7 +12,7 @@ async function scrapeResultsUrl() {
     const response = await fetch('https://www.cdcr.ca.gov/bph/parole-suitability-hearing-results/')
     const html = await response.text()
     const $ = cheerio.load(html)
-    const lis = $('#hearing-results-by-month + ul li')
+    const lis = $('#hearing-results-by-week + ul ~ h3 + ul')
     const first = lis[0]
     const href = $(first).find('a').attr('href')
     return href
