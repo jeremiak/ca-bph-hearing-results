@@ -106,7 +106,8 @@
       Source: Scraped regularly from <a
         href="https://www.cdcr.ca.gov/bph/parole-suitability-hearing-results/"
         >https://www.cdcr.ca.gov/bph/parole-suitability-hearing-results/</a
-      >
+      > and stored at <a href="https://github.com/jeremiak/ca-bph-hearing-results"
+	>https://github.com/jeremiak/ca-bph-hearing-results</a>
     </p>
   </div>
 </section>
