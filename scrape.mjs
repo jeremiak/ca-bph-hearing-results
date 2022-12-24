@@ -8,6 +8,18 @@ import fetch from 'isomorphic-fetch'
 const existingFile = await fs.readFile('./hearing-results.json')
 const existing = JSON.parse(existingFile.toString())
 
+function parseDate(text) {
+    let parsed
+    if (text.includes('/')) {
+        parsed = dayjs(text, 'MM/DD/YYYY')
+    } else {
+        const split = text.split(',')
+        const date = split.slice(1).join(',').trim()
+        parsed = dayjs(date, "MMMM DD, YYYY")
+    }
+    return parsed.format('YYYY-MM-DD')
+}
+
 async function scrapeResultsUrl() {
     const response = await fetch('https://www.cdcr.ca.gov/bph/parole-suitability-hearing-results/')
     const html = await response.text()
@@ -50,10 +62,7 @@ async function scrapeResults(url) {
             const col = columns[ii]
 
             if (col === 'scheduled-date') {
-                const split = text.split(',')
-                const date = split.slice(1).join(',').trim()
-                const parsed = dayjs(date, "MMMM DD, YYYY")
-                d[col] = parsed.format('YYYY-MM-DD')
+                d[col] = parseDate(text)
             } else {
                 d[col] = text.trim().replace('\n', '')
             }
