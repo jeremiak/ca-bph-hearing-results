@@ -22,7 +22,7 @@
 
 <div>
 	<div class="title">
-		Parole is granted at a declining rate
+		Parole is granted at a relatively consistent rate
 	</div>
 <div class="chart">
 
