@@ -18,16 +18,17 @@
     data.length > 0
       ? parseDate(data[data.length - 1].month)
       : parseDate("2050-12");
+  $: maxY = 30
 </script>
 
 <div>
-  <div class="title">Parole is granted at a relatively consistent rate</div>
+  <div class="title">Parole is granted in fewer than 1 in 5 hearings</div>
   <div class="chart">
-    <Pancake.Chart x1={minX} x2={maxX} y1={0} y2={100}>
+    <Pancake.Chart x1={minX} x2={maxX} y1={0} y2={maxY}>
       <Pancake.Grid horizontal count={4} let:value>
         <div class="grid-line horizontal">
           <span
-            >{value}{#if value === 100}% of hearings granted parole{/if}</span
+            >{value}{#if value === maxY}% of hearings granted parole{/if}</span
           >
         </div>
       </Pancake.Grid>
