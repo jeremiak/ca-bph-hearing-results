@@ -56,7 +56,7 @@
 
   <div class="chart-graf-container">
     <div class="grafs">
-      <p>Is the Board granting parole at a higher rate than normal? How did COVID-19 impact the parole hearing process?</p>
+      <p>Is <a href="https://www.cdcr.ca.gov/bph/">the Board</a> granting parole at a higher rate than normal? How did COVID-19 impact the parole hearing process?</p>
       <p>In order to answer these questions we need a time series, machine-readable dataset. The state doesn't publish that, <a href="https://www.jeremiak.com/blog/ca-bph-parole-hearing-results-data/">but I do</a>.</p>
       <div class="chart-container">
         <GrantChart data={stats} />
