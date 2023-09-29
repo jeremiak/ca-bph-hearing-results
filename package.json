@@ -1,32 +1,32 @@
 {
-    "name": "bph-scraper",
-    "version": "1.0.0",
-    "scripts": {
-        "dev": "vite dev --port 3000",
-        "build": "NODE_OPTIONS=--max_old_space_size=4096 vite build",
-        "preview": "vite preview --port 3000",
-        "lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
-        "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
-    },
-    "devDependencies": {
-        "@rollup/plugin-dsv": "^2.0.3",
-        "@sveltejs/adapter-netlify": "^2.0.8",
-        "@sveltejs/kit": "^1.22.3",
-        "@sveltejs/pancake": "0.0.18",
-        "cheerio": "^1.0.0-rc.10",
-        "dayjs": "^1.11.0",
-        "eslint": "^7.22.0",
-        "eslint-config-prettier": "^8.1.0",
-        "eslint-plugin-svelte3": "^3.2.0",
-        "isomorphic-fetch": "^3.0.0",
-        "lodash": "^4.17.21",
-        "prettier": "~2.2.1",
-        "prettier-plugin-svelte": "^2.2.0",
-        "sass": "^1.39.2",
-        "svelte": "^4.1.1",
-        "svelte-preprocess": "^5.0.4",
-        "vite": "^4.4.6"
-    },
-    "dependencies": {},
-    "type": "module"
+  "name": "bph-scraper",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite dev --port 3000",
+    "build": "NODE_OPTIONS=--max_old_space_size=4096 vite build",
+    "preview": "vite preview --port 3000",
+    "lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
+    "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
+  },
+  "devDependencies": {
+    "@rollup/plugin-dsv": "^2.0.3",
+    "@sveltejs/adapter-netlify": "^2.0.8",
+    "@sveltejs/kit": "^1.22.3",
+    "@sveltejs/pancake": "0.0.18",
+    "cheerio": "^1.0.0-rc.10",
+    "dayjs": "^1.11.0",
+    "eslint": "^7.22.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-svelte3": "^3.2.0",
+    "isomorphic-fetch": "^3.0.0",
+    "lodash": "^4.17.21",
+    "prettier": "~2.2.1",
+    "prettier-plugin-svelte": "^2.2.0",
+    "sass": "^1.39.2",
+    "svelte": "^4.1.1",
+    "svelte-preprocess": "^5.0.4",
+    "vite": "^4.4.6"
+  },
+  "dependencies": {},
+  "type": "module"
 }

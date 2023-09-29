@@ -1,28 +1,28 @@
 <script>
-  	import { createEventDispatcher } from 'svelte'
-  import { writable } from "svelte/store"
+  import { createEventDispatcher } from "svelte";
+  import { writable } from "svelte/store";
 
-  const dispatch = createEventDispatcher()
-  const searchResults = writable(null)
-  let name = null
-  let isSearching = false
+  const dispatch = createEventDispatcher();
+  const searchResults = writable(null);
+  let name = null;
+  let isSearching = false;
 
   async function search() {
-    isSearching = true
-    const response = await fetch(`/search.json?name=${name}`)
-    const json = await response.json()
+    isSearching = true;
+    const response = await fetch(`/search.json?name=${name}`);
+    const json = await response.json();
 
-    searchResults.set(json)
+    searchResults.set(json);
 
-    isSearching = false
+    isSearching = false;
   }
 
   function handleResultSelect(result) {
     return () => {
-      name = `${result.name} (${result.cdc})`
-      searchResults.set(null)
-      dispatch('selected', result)
-    }
+      name = `${result.name} (${result.cdc})`;
+      searchResults.set(null);
+      dispatch("selected", result);
+    };
   }
 </script>
 
@@ -40,16 +40,16 @@
     {#if $searchResults.length === 0}
       <p style="text-align: center;">No matches for "{name}"</p>
     {:else}
-    <ul>
-      {#each $searchResults as result}
-        <li class="result">
-          <button on:click|preventDefault={handleResultSelect(result)}>
-            <span class="result-name">{result.name}</span>
-            <span class="result-id">{result.cdc}</span>
-          </button>
-        </li>
-      {/each}
-    </ul>
+      <ul>
+        {#each $searchResults as result}
+          <li class="result">
+            <button on:click|preventDefault={handleResultSelect(result)}>
+              <span class="result-name">{result.name}</span>
+              <span class="result-id">{result.cdc}</span>
+            </button>
+          </li>
+        {/each}
+      </ul>
     {/if}
   {/if}
   <button
@@ -62,7 +62,6 @@
 </form>
 
 <style lang="scss">
-
   :root {
     --search-width: 300px;
 
@@ -147,11 +146,11 @@
   }
 
   .result-name {
-    padding-left: .2rem;
+    padding-left: 0.2rem;
   }
 
   .result-id {
     font-style: italic;
-    padding-right: .2rem;
+    padding-right: 0.2rem;
   }
 </style>

@@ -1,37 +1,37 @@
-import { json } from '@sveltejs/kit';
-import hearings from "../../../hearing-results.json"
+import { json } from "@sveltejs/kit";
+import hearings from "../../../hearing-results.json";
 
 export async function GET() {
-  const transformed = hearings.map(d => {
-    const date = d['scheduled-date']
-    const result = d.result
-    const [year,month,day] = date.split('-')
+  const transformed = hearings.map((d) => {
+    const date = d["scheduled-date"];
+    const result = d.result;
+    const [year, month, day] = date.split("-");
 
     return {
       year,
       month,
       day,
       result,
-    }
-  })
+    };
+  });
 
-  const groupedByMonth = []
+  const groupedByMonth = [];
 
-  transformed.forEach(d => {
-    const { result } = d
-    const key = `${d.year}-${d.month}`
-    if (key.includes('undefined')) return
-    const match = groupedByMonth.find(dd => dd.key === key)
+  transformed.forEach((d) => {
+    const { result } = d;
+    const key = `${d.year}-${d.month}`;
+    if (key.includes("undefined")) return;
+    const match = groupedByMonth.find((dd) => dd.key === key);
 
     if (match) {
-      match.results.push(result.toLowerCase())
+      match.results.push(result.toLowerCase());
     } else {
-      groupedByMonth.push({ key, results: [result.toLowerCase()]})
+      groupedByMonth.push({ key, results: [result.toLowerCase()] });
     }
-  })
+  });
 
-  const stats = groupedByMonth.map(d => {
-    const { key: month } = d
+  const stats = groupedByMonth.map((d) => {
+    const { key: month } = d;
     const results = {
       grant: 0,
       deny: 0,
@@ -42,33 +42,32 @@ export async function GET() {
       waive: 0,
       stip: 0,
       total: 0,
-    }
+    };
 
-    d.results.forEach(result => {
-      if (result.includes('grant')) {
-        results.grant += 1
-      } else if (result.includes('deny')) {
-        results.deny += 1
-      } else if (result.includes('continue')) {
-        results.continue += 1
-      } else if (result.includes('split')) {
-        results.split += 1
-      } else if (result.includes('postpone')) {
-        results.postpone += 1
-      } else if (result.includes('waive')) {
-        results.waive += 1
-      } else if (result.includes('stip')) {
-        results.stip += 1
+    d.results.forEach((result) => {
+      if (result.includes("grant")) {
+        results.grant += 1;
+      } else if (result.includes("deny")) {
+        results.deny += 1;
+      } else if (result.includes("continue")) {
+        results.continue += 1;
+      } else if (result.includes("split")) {
+        results.split += 1;
+      } else if (result.includes("postpone")) {
+        results.postpone += 1;
+      } else if (result.includes("waive")) {
+        results.waive += 1;
+      } else if (result.includes("stip")) {
+        results.stip += 1;
       }
-      results.total += 1
-    })
+      results.total += 1;
+    });
 
     return {
       month,
-      results
-    }
-  })
+      results,
+    };
+  });
 
-
-  return json(stats)
+  return json(stats);
 }
