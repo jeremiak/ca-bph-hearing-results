@@ -6,5 +6,5 @@
 	<slot />
 </main>
 
-<style lang="scss">
+<style>
 </style>

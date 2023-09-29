@@ -1,5 +1,7 @@
-export async function get() {
-  const { default: hearings } = await import("../../hearing-results.json")
+import { json } from '@sveltejs/kit';
+import hearings from "../../../hearing-results.json"
+
+export async function GET() {
   const transformed = hearings.map(d => {
     const date = d['scheduled-date']
     const result = d.result
@@ -68,8 +70,5 @@ export async function get() {
   })
 
 
-  return {
-    status: 200,
-    body: stats,
-  }
+  return json(stats)
 }

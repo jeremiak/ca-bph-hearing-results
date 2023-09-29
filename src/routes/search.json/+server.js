@@ -1,4 +1,5 @@
-import data from "../../hearing-results.json"
+import { json } from '@sveltejs/kit';
+import data from "../../../hearing-results.json"
 
 function formatName(name) {
     const replaced = name.replace(/\s+/g, ' ')
@@ -6,7 +7,7 @@ function formatName(name) {
     return `${lastName}, ${restOfName.join(' ')}`
 }
 
-export async function get({ url }) {
+export async function GET({ url }) {
     const nameParam = url.searchParams.get("name").toUpperCase()
 
     const matched = []
@@ -30,8 +31,5 @@ export async function get({ url }) {
         return 0
     })
 
-    return {
-        status: 200,
-        body: sorted,
-    }
+    return json(sorted)
 }
