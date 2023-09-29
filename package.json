@@ -4,7 +4,7 @@
     "scripts": {
         "dev": "vite dev --port 3000",
         "build": "NODE_OPTIONS=--max_old_space_size=4096 vite build",
-        "preview": "vite preview",
+        "preview": "vite preview --port 3000",
         "lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
         "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
     },
