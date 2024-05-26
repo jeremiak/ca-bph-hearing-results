@@ -1,10 +1,16 @@
 export async function load({ fetch }) {
   const response = await fetch(`/stats.json`);
   const json = await response.json();
+  let overallTotal = 0
+  let overallGrant = 0
+  let overallDeny = 0
   const withPercents = json
     .map((d) => {
       const { month, results } = d;
       const { grant, deny, total } = results;
+      overallTotal += total
+      overallGrant += grant
+      overallDeny += deny
       return [
         {
           month,
@@ -21,7 +27,11 @@ export async function load({ fetch }) {
       ];
     })
     .flat();
+  
   return {
     stats: withPercents,
+    total: overallTotal,
+    grant: overallGrant,
+    deny: overallDeny
   };
 }

@@ -4,6 +4,7 @@
 
   export let data = {};
 
+  $: overallGrantPercent = data.grant / data.total;
   $: stats = data.stats;
 </script>
 
@@ -32,7 +33,10 @@
       </div>
       <p>
         As we can see from the chart above, the rate at which the Board grants
-        parole is consistently between 10% and 20% over the past few years.
+        parole is consistently between 10% and 20% over the past few years. The
+        parole grant rate over the entire period is roughly {Math.round(
+          100 * overallGrantPercent
+        )}%.
       </p>
       <p>
         And if you wanted to see all of the parole hearings for a particular
