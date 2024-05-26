@@ -77,12 +77,8 @@
   }
 
   form {
-    background-color: #eee;
-    border-radius: 5px;
     display: flex;
     flex-direction: column;
-    margin-bottom: 1rem;
-    margin-top: 1rem;
     padding: 1rem;
   }
 
@@ -135,10 +131,11 @@
   }
 
   li:nth-child(odd) {
-    background-color: #ccc;
+    background-color: #4d4c4c;
   }
 
   .result button {
+    color: white;
     display: flex;
     font-size: inherit;
     justify-content: space-between;

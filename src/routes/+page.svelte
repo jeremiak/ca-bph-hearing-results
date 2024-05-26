@@ -1,31 +1,18 @@
 <script>
-  import { writable } from "svelte/store";
   import GrantChart from "$lib/GrantChart.svelte";
-  import InmateSearch from "$lib/InmateSearch.svelte";
+  import InmateSearchAndResults from "$lib/InmateSearchAndResults.svelte";
 
   export let data = {};
 
   $: stats = data.stats;
-
-  const hearings = writable([]);
-  const name = writable(null);
-
-  async function handleSelected(e) {
-    const result = e.detail;
-    const response = await fetch(`/${result.cdc}.json`);
-    const json = await response.json();
-
-    hearings.set(json);
-    name.set(`${result.name}`);
-  }
 </script>
 
 <svelte:head>
-  <title>CA Board of Parole Hearing results</title>
+  <title>California Board of Parole Hearing results</title>
 </svelte:head>
 
 <section>
-  <h1>CA Board of Parole Hearing results</h1>
+  <h1>California Board of Parole Hearing results</h1>
 
   <div class="chart-graf-container">
     <div class="grafs">
@@ -44,50 +31,18 @@
         <GrantChart data={stats} />
       </div>
       <p>
-        As we can see from the chart, the rate at which the Board grants parole
-        is pretty consistent over the past few years.
+        As we can see from the chart above, the rate at which the Board grants
+        parole is consistently between 10% and 20% over the past few years.
       </p>
       <p>
         And if you wanted to see all of the parole hearings for a particular
         person, the state doesn't publish that either. But I do! Use the form
-        below to look for a specific perons's hearings.
+        below to look for a specific persons's hearings.
       </p>
     </div>
   </div>
 
-  <InmateSearch on:selected={handleSelected} />
-
-  {#if $name}
-    <table>
-      <caption>Hearings for {$name || "--"}</caption>
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>County</th>
-          <th>Code</th>
-          <th>Result</th>
-        </tr>
-      </thead>
-      <tbody>
-        {#if $hearings.length === 0}
-          <tr>
-            <td>--</td>
-            <td>--</td>
-            <td>--</td>
-            <td>--</td>
-          </tr>
-        {/if}
-        {#each $hearings as hearing}
-          <tr>
-            <td>{hearing["scheduled-date"]}</td>
-            <td>{hearing["commitment-county"]}</td>
-            <td>{hearing["gov-code"]}</td>
-            <td>{hearing.result}</td>
-          </tr>
-        {/each}
-      </tbody>
-    </table>
-  {/if}
+  <InmateSearchAndResults />
 
   <div class="source">
     <p>
@@ -112,29 +67,6 @@
 
   p {
     line-height: 1.4rem;
-  }
-
-  table {
-    border: 1px solid black;
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  caption {
-    margin-bottom: 0.5rem;
-  }
-
-  th {
-    text-align: left;
-  }
-
-  th,
-  td {
-    padding: 0.25rem;
-  }
-
-  tbody tr:nth-child(odd) {
-    background-color: #ccc;
   }
 
   .source {

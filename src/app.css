@@ -3,6 +3,13 @@
 }
 
 body {
+  background-color: #212121;
+  color: white;
   font-family: monospace;
   font-size: 18px;
+}
+
+a,
+a:visited {
+  color: white;
 }

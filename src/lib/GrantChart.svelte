@@ -2,6 +2,7 @@
   import dayjs from "dayjs";
   import * as Pancake from "@sveltejs/pancake";
   export let data = [];
+  let title = "Parole is granted in fewer than 1 in 5 hearings";
 
   function formatDate(date) {
     return dayjs(date).format("YYYY-MM");
@@ -18,14 +19,23 @@
     data.length > 0
       ? parseDate(data[data.length - 1].month)
       : parseDate("2050-12");
-  $: maxY = 30
+  $: maxY = 30;
+
+  $: lastGranted = granted[granted.length - 1];
+  $: lastGrantedPercent = lastGranted?.percent;
+
+  $: {
+    if (lastGrantedPercent > 0.2) {
+      title = `Last month, parole was granted at a rate higher than 1 in 5`;
+    }
+  }
 </script>
 
 <div>
-  <div class="title">Parole is granted in fewer than 1 in 5 hearings</div>
+  <div class="title">{title}</div>
   <div class="chart">
     <Pancake.Chart x1={minX} x2={maxX} y1={0} y2={maxY}>
-      <Pancake.Grid horizontal count={4} let:value>
+      <Pancake.Grid horizontal count={3} let:value>
         <div class="grid-line horizontal">
           <span
             >{value}{#if value === maxY}% of hearings granted parole{/if}</span
@@ -33,7 +43,7 @@
         </div>
       </Pancake.Grid>
 
-      <Pancake.Grid vertical count={5} let:value>
+      <Pancake.Grid vertical count={3} let:value>
         <span class="x-label">{formatDate(value)}</span>
       </Pancake.Grid>
 
@@ -82,7 +92,7 @@
 
   .x-label {
     position: absolute;
-    width: 4em;
+    width: 6em;
     left: -2em;
     bottom: -22px;
     font-size: 14px;
