@@ -2,6 +2,8 @@
   import dayjs from "dayjs";
   import * as Pancake from "@sveltejs/pancake";
   export let data = [];
+
+  let closest
   let title = "Parole is granted in fewer than 1 in 5 hearings";
 
   function formatDate(date) {
@@ -23,6 +25,10 @@
 
   $: lastGranted = granted[granted.length - 1];
   $: lastGrantedPercent = lastGranted?.percent;
+  $: chartData = granted.map((d) => ({
+            x: parseDate(d.month),
+            y: d.percent * 100,
+          }))
 
   $: {
     if (lastGrantedPercent > 0.2) {
@@ -49,15 +55,28 @@
 
       <Pancake.Svg>
         <Pancake.SvgLine
-          data={granted.map((d) => ({
-            x: parseDate(d.month),
-            y: d.percent * 100,
-          }))}
+          data={chartData}
           let:d
         >
           <path class="data" {d} />
         </Pancake.SvgLine>
       </Pancake.Svg>
+
+      {#if closest}
+        {@const value = closest.y}
+        {@const month = (new Date(closest.x)).getMonth() + 1}
+        {@const year = (new Date(closest.x).getFullYear())}
+        <div class="tooltip">
+          <div>
+            Month: {`${month}`.padStart(2, '0')}-{year}
+          </div>
+          <div>
+            Grant rate: {Math.round(value)}%
+          </div>
+        </div>
+      {/if}
+
+      <Pancake.Quadtree data={chartData} bind:closest/>
     </Pancake.Chart>
   </div>
 </div>
@@ -101,6 +120,7 @@
   }
 
   path.data {
+    cursor: pointer;
     stroke: gold;
     stroke-linejoin: round;
     stroke-linecap: round;
@@ -111,5 +131,11 @@
   .title {
     text-align: center;
     font-weight: 700;
+  }
+
+  .tooltip {
+    font-size: .8em;
+    padding-top: .5rem;
+    text-align: center;
   }
 </style>
