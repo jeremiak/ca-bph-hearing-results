@@ -9,11 +9,16 @@
 </script>
 
 <svelte:head>
-  <title>California Board of Parole Hearing results</title>
+  <title>California Board of Parole Hearing data</title>
+  <meta property="og:title" content="California Board of Parole Hearing data" />
+  <meta property="og:description" content="Scraped and aggregated data for parole hearings since December 2019.">
+  <meta property="og:type" content="website">
+  <meta property="twitter:title" content="California Board of Parole Hearing data ">
+  <meta property="twitter:description" content="Scraped and aggregated data for parole hearings since December 2019.">
 </svelte:head>
 
 <section>
-  <h1>California Board of Parole Hearing results</h1>
+  <h1>California Board of Parole Hearing data</h1>
 
   <div class="chart-graf-container">
     <div class="grafs">
