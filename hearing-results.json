@@ -523854,6 +523854,6166 @@
     "result": "Postpone 0 mo"
   },
   {
+    "name": "AVILA, JESUS, ANGEL",
+    "cdc": "AE9152",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "BARTOSH, BRIAN, JAMES",
+    "cdc": "D91985",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "CABRAL, GILBERT",
+    "cdc": "BW7062",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CANDLER, KEITH, WAYNE",
+    "cdc": "K25679",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "CARMAN, DAVID, VINCENT",
+    "cdc": "C68744",
+    "in-person": "Yes",
+    "commitment-county": "Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CLEVENGER, DONALD, RAY",
+    "cdc": "C66021",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 7 mo"
+  },
+  {
+    "name": "COLEMAN, DONALD, RAY",
+    "cdc": "B84699",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CORONADO, ANTHONY",
+    "cdc": "P62479",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "DURAN, MIGUEL, ANGEL",
+    "cdc": "J53933",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "ELSE, DELAUDEA, DESHAUN",
+    "cdc": "AM4228",
+    "in-person": "No",
+    "commitment-county": "Placer,Sacramento,San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "FIELDS, KEVIN, ELLIOTT",
+    "cdc": "P83425",
+    "in-person": "No",
+    "commitment-county": "Kings,San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "FIERROS-MADERA, ENRIQUE",
+    "cdc": "BW8729",
+    "in-person": "No",
+    "commitment-county": "Merced",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "FIGUERAS, LUIS, JUAN",
+    "cdc": "T03889",
+    "in-person": "No",
+    "commitment-county": "San Joaquin",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "FLORES, PAUL, ANTHONY",
+    "cdc": "BC0549",
+    "in-person": "No",
+    "commitment-county": "Sacramento,Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "FREGOSO, CARLOS",
+    "cdc": "D95086",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Riverside",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "GARCIA, CARLOS, ANTONIO",
+    "cdc": "J14104",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "GONZALEZ, REYNALDO, A",
+    "cdc": "BK4398",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Reconsideration",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "GORDILLO, JORGE, ESPINOZA",
+    "cdc": "V36359",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HERNANDEZ, JAMES",
+    "cdc": "K11921",
+    "in-person": "Yes",
+    "commitment-county": "Santa Clara",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "HETTIGER, CHRISTOPHER, TODD",
+    "cdc": "V34801",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "JAMES, CLARENCE",
+    "cdc": "G30727",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "JORDAN, LAMAR, EDWARDS",
+    "cdc": "V19396",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "LANDRY, CHARLES, ANTHONY",
+    "cdc": "H47400",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "LEE, TOMMY",
+    "cdc": "P82190",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MACIAS, ROLAND, REYNALDO",
+    "cdc": "G09849",
+    "in-person": "Yes",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "MARTINEZ, ANGEL, LIMON",
+    "cdc": "E13622",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "MARTINEZ, JUAN, MANUEL",
+    "cdc": "F32026",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "MILLER, VINCENT, WENDELL",
+    "cdc": "P19243",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "MOLINA, ADOLFO",
+    "cdc": "P77381",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MORA, EMMANUEL",
+    "cdc": "AT5640",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "MORALES, GABRIELA, MARIANA",
+    "cdc": "WE4525",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "MOSLEY, EVERETT, EUGENE",
+    "cdc": "J23915",
+    "in-person": "No",
+    "commitment-county": "Amador,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "NAVARRO, JOSE, LUIS",
+    "cdc": "AX7633",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "OXLEY, WILLIE, JAMES",
+    "cdc": "AH7999",
+    "in-person": "No",
+    "commitment-county": "Sacramento,Imperial,Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "PATRICK, CHARLES",
+    "cdc": "C74465",
+    "in-person": "No",
+    "commitment-county": "San Francisco",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "PEDRAZA, ESMID, VALENTIN",
+    "cdc": "BD9025",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "PEREZ, JOHN, TIMOTHY",
+    "cdc": "E56699",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "PERVIER, RICHARD, MICHAEL",
+    "cdc": "AV7283",
+    "in-person": "No",
+    "commitment-county": "Mendocino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "PITTMAN, STEWARD, KEITH",
+    "cdc": "C47105",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "PULIDO, ROBERT",
+    "cdc": "T55812",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "QUINTANILLA, DAVID, ARMANDO",
+    "cdc": "P05884",
+    "in-person": "No",
+    "commitment-county": "Contra Costa",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "RODRIGUEZ, ROY",
+    "cdc": "P22401",
+    "in-person": "Yes",
+    "commitment-county": "Monterey",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "SANDOVAL, HERMAN, GARCIA",
+    "cdc": "V71864",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SIMONTON, JAMES, ALLEN",
+    "cdc": "T45023",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "SMITH, KEVIN, TYRONE",
+    "cdc": "F19128",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SOLIS, OSVALDO, RENE",
+    "cdc": "G16700",
+    "in-person": "No",
+    "commitment-county": "Imperial,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SOUTH, SCOTT, ARTHUR",
+    "cdc": "J20492",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "THOMAS, GERALD, ESTON",
+    "cdc": "F93930",
+    "in-person": "Yes",
+    "commitment-county": "Sacramento,San Joaquin",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "TOVAR, JUAN, OROZCO",
+    "cdc": "F32561",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "VALDIVIEZ, MIGUEL",
+    "cdc": "H11044",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "VANDERVALL, KARL",
+    "cdc": "D82274",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "WORKS NOVIKOFF, JEFFREY, ALAN",
+    "cdc": "P09603",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "YOUNG, TEDDY, JEROME",
+    "cdc": "K68319",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-02",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "AGUILERA, VICTOR, MANUEL",
+    "cdc": "T45566",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "ANKER, ORVILLE, ALLAN",
+    "cdc": "V23180",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 5 yr"
+  },
+  {
+    "name": "BERNAL, NATHANIEL",
+    "cdc": "K85546",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BERNARD, CLARENCE, JOSEPH",
+    "cdc": "P63209",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BLAJOS, RUBEN, MARTINEZ",
+    "cdc": "P10577",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "BRECKENRIDGE, SCOTT, EDWARD",
+    "cdc": "H23357",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "BUSH, THOMAS, LOUIS",
+    "cdc": "K21452",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CABRERA, ROGELIO, MICHAEL, JR.",
+    "cdc": "AU1270",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "CALVILLO, ALBERT, ALEXANDER",
+    "cdc": "AF6622",
+    "in-person": "No",
+    "commitment-county": "San Bernardino,Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "CAMPOS-MENDOZA, JOSE",
+    "cdc": "AR3161",
+    "in-person": "No",
+    "commitment-county": "Sonoma,Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 10 yr"
+  },
+  {
+    "name": "CARRILLO, FRANCISCO",
+    "cdc": "E14599",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "CASH, RANDALL, SCOTT",
+    "cdc": "H53400",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "CASTRO, JESUS, ADOLFO ROSILLO",
+    "cdc": "AR4988",
+    "in-person": "No",
+    "commitment-county": "Butte",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CELIS, VICTOR, MANUEL, JR.",
+    "cdc": "T75811",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CONLEY, FREDDIE, LEE",
+    "cdc": "F27173",
+    "in-person": "No",
+    "commitment-county": "Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "DAUGHERTY, MICHAEL",
+    "cdc": "AV4688",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Reconsideration",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "DAVIS, DWAIN, EVERETT",
+    "cdc": "P27486",
+    "in-person": "No",
+    "commitment-county": "Sacramento,San Mateo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "DAVIS, SAMMY, JOHN",
+    "cdc": "J60127",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "DELRIO, JOSE, CARLOS",
+    "cdc": "F79619",
+    "in-person": "No",
+    "commitment-county": "Orange,Monterey,Lassen",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "ESQUIBEL, PETER",
+    "cdc": "T87509",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "FINER, JEREMY",
+    "cdc": "J59402",
+    "in-person": "No",
+    "commitment-county": "Contra Costa",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "GARCIA, RENEE",
+    "cdc": "K96197",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Sacramento",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "GARZA, MANUEL",
+    "cdc": "F80025",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GONZALEZ, GABRIEL",
+    "cdc": "T77825",
+    "in-person": "No",
+    "commitment-county": "Madera",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GONZALEZ, RANDY",
+    "cdc": "V98174",
+    "in-person": "No",
+    "commitment-county": "Orange,Kings,Lassen",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 11 mo"
+  },
+  {
+    "name": "GUTIERREZ, SHELLY, MAURICE",
+    "cdc": "X11659",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HERNANDEZ, CHRISTOPHER, MOISES",
+    "cdc": "G12441",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "HERNANDEZ, MARINO, ANTONIO",
+    "cdc": "F79366",
+    "in-person": "No",
+    "commitment-county": "San Mateo,Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "JACKSON, ANDREW, JOSEPH",
+    "cdc": "AP2981",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "JACUINDE, RICHARD",
+    "cdc": "C65805",
+    "in-person": "Yes",
+    "commitment-county": "Kern,San Luis Obispo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "JOHNSON, TEDDINO",
+    "cdc": "H08278",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "MARTIN, CHAUNCEY, DION",
+    "cdc": "AK7500",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MAXCY, JOHN, EDWARD",
+    "cdc": "AK5558",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "MONETTE, ALEX, JOSEPH",
+    "cdc": "E48953",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kings,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "NAVARRO, DAVID, LUIS",
+    "cdc": "AF6054",
+    "in-person": "No",
+    "commitment-county": "Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "NOFFSINGER, JAMES, DAVID",
+    "cdc": "D64392",
+    "in-person": "No",
+    "commitment-county": "San Bernardino,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "PESE, TINO",
+    "cdc": "T73512",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "PHANCHANH, YAI",
+    "cdc": "V37044",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Sonoma",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "PORTILLO, MARIO, NELSON",
+    "cdc": "J19141",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "REGALADO, ERIBERTO",
+    "cdc": "AN0695",
+    "in-person": "No",
+    "commitment-county": "Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "RICHARDS, STEVEN, ALBERT",
+    "cdc": "V80914",
+    "in-person": "Yes",
+    "commitment-county": "Tuolumne",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "RODRIGUEZ, ARTHUR, ROBERT",
+    "cdc": "P28348",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "RUIZ, RAMIRO, ROMO",
+    "cdc": "K93856",
+    "in-person": "Yes",
+    "commitment-county": "Madera",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Continue 6 mo"
+  },
+  {
+    "name": "SAIZ, JOHN, MANUEL",
+    "cdc": "T07694",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 5 yr"
+  },
+  {
+    "name": "SEANG, SYTHA, THA",
+    "cdc": "F40327",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "SHEPARD, ROBERT, EARL, JR.",
+    "cdc": "F06594",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SILVA, ANGEL, COLINDRES",
+    "cdc": "AL8456",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "THOMAS, JAMES, DEREK",
+    "cdc": "E18879",
+    "in-person": "Yes",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "VIDAL, JUAN, CARLOS",
+    "cdc": "AK1562",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "WARREN, ELBERT",
+    "cdc": "AF9606",
+    "in-person": "No",
+    "commitment-county": "Ventura",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "WHITE, RONALD",
+    "cdc": "F08976",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "WIGHT, MARVIN, MEYER",
+    "cdc": "BT3698",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 10 yr"
+  },
+  {
+    "name": "WILLIAMS, THEAUDRA, CONRAD",
+    "cdc": "C47938",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "YOO, MISUN",
+    "cdc": "WG2039",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "ZARAGOZA, JUAN, FRANCISCO",
+    "cdc": "AF6041",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "ZAVALA, LUIS, ANGEL",
+    "cdc": "AL0155",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "ZEVE, MICHAEL, LEON",
+    "cdc": "F88427",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "ZUNIGA, JUAN, RAMIREZ",
+    "cdc": "P23019",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial,Monterey",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-03",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "ALVARADO, RAUL",
+    "cdc": "H01346",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 5 yr"
+  },
+  {
+    "name": "ARANA, PEDRO",
+    "cdc": "F95440",
+    "in-person": "No",
+    "commitment-county": "Ventura",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "AYON, EVAN",
+    "cdc": "T99720",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 7 yr"
+  },
+  {
+    "name": "BARKUS, HARRY, LUTHER",
+    "cdc": "P79511",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 7 mo"
+  },
+  {
+    "name": "BERNIDAKIS, THOMAS",
+    "cdc": "K14802",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "BLACK, KEVIN, MICHAEL",
+    "cdc": "T81134",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Continue 6 mo"
+  },
+  {
+    "name": "CARRETO-VASQUEZ, RAUL",
+    "cdc": "G22143",
+    "in-person": "No",
+    "commitment-county": "San Mateo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CASANOVA, ARMONDO, VILLAR",
+    "cdc": "T70395",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CHAVEZ, JORGE",
+    "cdc": "V66949",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CORRALES, JOSE, LEDEZMA",
+    "cdc": "V71135",
+    "in-person": "No",
+    "commitment-county": "Imperial,Kings,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "DALERIO, MICHAEL, JIOVANNI",
+    "cdc": "V82083",
+    "in-person": "No",
+    "commitment-county": "Mendocino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "EAST, EDWIN, LAWRENCE, JR",
+    "cdc": "BC9792",
+    "in-person": "No",
+    "commitment-county": "Humboldt",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "FURLAN, MARC, ANTHONY",
+    "cdc": "BA6905",
+    "in-person": "No",
+    "commitment-county": "San Mateo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "GARNICA, ALFONSO",
+    "cdc": "AP7984",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "GASTON, DAMIEN",
+    "cdc": "AP5649",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "GAZAWAY, JERALD, DREW",
+    "cdc": "K85439",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GONZALES, OSCAR, PINITA",
+    "cdc": "C48264",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GUTIERREZ, JESUS",
+    "cdc": "V40706",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "HALL, DONALD, O’DELL",
+    "cdc": "K17765",
+    "in-person": "No",
+    "commitment-county": "Merced",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "HARO, TOMMY",
+    "cdc": "T77137",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "HORSFALL, TRAVIS",
+    "cdc": "H57706",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Amador",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "JOHNSON, JAMES, LEE",
+    "cdc": "T54394",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "JUAREZ, JOSE, VENTURA",
+    "cdc": "P54712",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "KASPER, MATHEW, C",
+    "cdc": "V20458",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "KLEINSCHMIDT, CHARLES, TRENT",
+    "cdc": "T40229",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "LACOUR, CHRISTOPHER",
+    "cdc": "P64440",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "LEE, DARREN, LAWRENCE",
+    "cdc": "C16213",
+    "in-person": "No",
+    "commitment-county": "Stanislaus",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "LENABURG, PAUL, DAVID",
+    "cdc": "AA6725",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MACK, ONTARIOUS, DAQUAN",
+    "cdc": "T11986",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "MAGDALENO, JOHN, GERARD",
+    "cdc": "T50077",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "MARSHALL, LOUIS, CLIFFORD",
+    "cdc": "C72315",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MASON, TIMOTHY, ANDREW",
+    "cdc": "BH9928",
+    "in-person": "No",
+    "commitment-county": "Placer",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MENDEZ, FRANCISCO, JAVIER",
+    "cdc": "T65716",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MENDOZA, MOISES",
+    "cdc": "V06653",
+    "in-person": "No",
+    "commitment-county": "Stanislaus",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MILES, TRACEY",
+    "cdc": "J50086",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MILLER, JOHN, DREW",
+    "cdc": "C14123",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MOLINA, ABIGAEL, BOBBY",
+    "cdc": "C41378",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MOOTRY, MICHAEL, ANTHONY",
+    "cdc": "T79916",
+    "in-person": "No",
+    "commitment-county": "San Diego,Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "NAVE, RICHARD, DAMIEN",
+    "cdc": "BY7384",
+    "in-person": "No",
+    "commitment-county": "Placer",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "PENNELLO, DANILO",
+    "cdc": "F66742",
+    "in-person": "No",
+    "commitment-county": "San Bernardino,Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "RANDOLPH, LENEL",
+    "cdc": "V22057",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "RANGEL, MANUEL, NMN",
+    "cdc": "F03194",
+    "in-person": "No",
+    "commitment-county": "Butte",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "REYES, ABEL, JOSEPH",
+    "cdc": "C26733",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "ROBERTS, BRUCE, EVAN",
+    "cdc": "T83831",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "RONQUILLO, CESAR, ENRIQUE",
+    "cdc": "T30378",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "SIANEZ, ERICK",
+    "cdc": "AM3479",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SINGSON, RONALD, WILLIAM",
+    "cdc": "H23699",
+    "in-person": "No",
+    "commitment-county": "Santa Barbara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "SUTTON, DONTE, MAURICE",
+    "cdc": "G44869",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "TOVAR, JUAN, OROZCO",
+    "cdc": "F32561",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "TRAYLOR, KEVIN, LAMONT",
+    "cdc": "T60887",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Continue 6 mo"
+  },
+  {
+    "name": "VERDIN, DELFINO, PEREZ",
+    "cdc": "K85219",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "WILLIAMS, ALPHONSO",
+    "cdc": "AV0534",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "WILLIAMS, ANTHONY, RAYNAIL",
+    "cdc": "V07297",
+    "in-person": "No",
+    "commitment-county": "Alameda,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "WOMACK, ERIC",
+    "cdc": "E71901",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-04",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "BAILEY, JOHNEL, MARQUIS",
+    "cdc": "K03590",
+    "in-person": "No",
+    "commitment-county": "Kings,Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Continue 6 mo"
+  },
+  {
+    "name": "BAINES, PHILLIP, L",
+    "cdc": "C62692",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BALTIERRA, EDUARDO, INFANTE",
+    "cdc": "F66719",
+    "in-person": "No",
+    "commitment-county": "Madera",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "BOTELLO, JESUS",
+    "cdc": "G39944",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Los Angeles,Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BROCK, AARON",
+    "cdc": "K55538",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BURNIAS, SANTOS, JR",
+    "cdc": "C85301",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CASTANEDA, ROBERTO",
+    "cdc": "AP4984",
+    "in-person": "No",
+    "commitment-county": "Santa Barbara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "CASTILLO, RENATO, VALERIO",
+    "cdc": "AT4706",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "CLARK, BRADFIELD, HADDEN",
+    "cdc": "D08863",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CURRIER, STEVEN, BURDELL",
+    "cdc": "D08388",
+    "in-person": "No",
+    "commitment-county": "Glenn",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "DEAN, DEVANCE, DARNELL",
+    "cdc": "G10182",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ESPINOSA, JORGE",
+    "cdc": "AF1562",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,San Bernardino,Sacramento,Amador",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "GALINDO, ESTEBAN, RAMIREZ",
+    "cdc": "D14500",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "GARCIA, HERIBERTO",
+    "cdc": "G36724",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "GARCIA, RAUL",
+    "cdc": "C89163",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "GREEN, DUPRIEST, JERMAINE",
+    "cdc": "T12804",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "GUTIERREZ, ARTURO, RAMOS",
+    "cdc": "T36383",
+    "in-person": "No",
+    "commitment-county": "Ventura",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "GUTIERREZ, JONATHAN",
+    "cdc": "AK6331",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "HICKS, MARK, HOWARD",
+    "cdc": "F71275",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HOOKS, VERNON",
+    "cdc": "T08976",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "JEFFERSON, JESIMIEL",
+    "cdc": "H57749",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "JENKINS, MICHAEL, DEWAYNE",
+    "cdc": "AE1372",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Sacramento,Monterey,San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "KEYES, JEFFERY, JAIME",
+    "cdc": "P71897",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "LARUMBE, LUIS",
+    "cdc": "AL6403",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "LOPEZ, EDDIE, SANDOVAL",
+    "cdc": "AL4452",
+    "in-person": "No",
+    "commitment-county": "San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MARTIR, MANUEL, DEJESUS",
+    "cdc": "AM7767",
+    "in-person": "No",
+    "commitment-county": "San Francisco",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MCCOY, WILBERT, WARD",
+    "cdc": "T70019",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MONTELONGO, CARLOS",
+    "cdc": "AT4070",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MONTEROS, FRANCISCO",
+    "cdc": "V96591",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "NELSON, SAMUEL, MOSES",
+    "cdc": "G12688",
+    "in-person": "No",
+    "commitment-county": "Orange,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Rescission",
+    "result": "Rescind  yr"
+  },
+  {
+    "name": "OROZCO, SAUL, JOHNATHAN",
+    "cdc": "BD1427",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "RAMIREZ, ARTEMIO",
+    "cdc": "T93639",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "REED, ARZURAY, DIAMOND",
+    "cdc": "BD6515",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "REYES, RUBEN",
+    "cdc": "V51070",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "RUSH, WILLIAM, THUNDER",
+    "cdc": "E75348",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Reconsideration",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "RUSK, DANIEL, DEWAYNE",
+    "cdc": "J68423",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "SANCHEZ-GOMEZ, ALEJANDRO",
+    "cdc": "J50223",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "SAYLES, WALTER",
+    "cdc": "AL4784",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "STILLMAN, STEVEN, THEON",
+    "cdc": "D13199",
+    "in-person": "No",
+    "commitment-county": "Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "TORRES, ALBERT",
+    "cdc": "AU2987",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "VARGAS, VICTOR, MARTIN",
+    "cdc": "D20539",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "VELASQUEZ, VICTOR",
+    "cdc": "J21871",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "WOODHOUSE, ROY, LEE",
+    "cdc": "B90477",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-05",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "ARIAS, CUAUHTEMOC",
+    "cdc": "AW8434",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "BARRON, GREGORY, SCOTT",
+    "cdc": "J90937",
+    "in-person": "No",
+    "commitment-county": "Orange,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BATES, JAMES, EDWARD",
+    "cdc": "V54192",
+    "in-person": "No",
+    "commitment-county": "San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "BRADFORD, MATTHEW, RAY",
+    "cdc": "V56840",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "BROOKS, DION",
+    "cdc": "C71239",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "CHATMAN, MARK, CHRISTOPHER",
+    "cdc": "AB0571",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CRUZ, ALEX, ANTONIO",
+    "cdc": "T77943",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CULVER, ROBERT, ALLEN",
+    "cdc": "D77351",
+    "in-person": "No",
+    "commitment-county": "Sutter",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "DIAZ, JOSHUA, CHRISTOPHER",
+    "cdc": "G25736",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "DIAZ, JUAN, ANTONIO",
+    "cdc": "V06103",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "DURAN, SANTOS",
+    "cdc": "K24854",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "FAITH, STEVIN, NOEL",
+    "cdc": "C31222",
+    "in-person": "No",
+    "commitment-county": "Butte",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GAINES, JAMES, CALVIN",
+    "cdc": "F86237",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GARCIA, RAUL",
+    "cdc": "C89163",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GEORGE, CHARLES, WESLEY",
+    "cdc": "AC0701",
+    "in-person": "No",
+    "commitment-county": "Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "HARPER, NICHOLAS, BRIAN",
+    "cdc": "AU1131",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "HARRIS, KENNETH, RAY",
+    "cdc": "D62491",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HARRIS, RICKY",
+    "cdc": "P26863",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "HARRISON, MARCUS, L",
+    "cdc": "H54077",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "HOWARD, WILLIAM, MICHAEL",
+    "cdc": "BA5582",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "HURTADO, EDGAR",
+    "cdc": "F83145",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "KIRBY, PATRICK, M",
+    "cdc": "H89072",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "KNOX, ANTHONY, MARCELOUS",
+    "cdc": "F12163",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MAYS, JAMES, ANTHONY",
+    "cdc": "P70999",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MCBRIDE, THOMAS, GRIER",
+    "cdc": "D36925",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "MEDA, JESUS",
+    "cdc": "P82593",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "MONTGOMERY, GRADY, WILL",
+    "cdc": "K52660",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MORALES-SMITH, RAMON, GUILLERMO",
+    "cdc": "F21867",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MORRISON, SINQUE, BEIAMA",
+    "cdc": "G44863",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "NEWSOME, ERIC, NEAL",
+    "cdc": "T56762",
+    "in-person": "Yes",
+    "commitment-county": "Sacramento,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 5 yr"
+  },
+  {
+    "name": "NUSH, DANIEL, PETER",
+    "cdc": "H36501",
+    "in-person": "Yes",
+    "commitment-county": "Merced",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Reconsideration",
+    "result": "Stip 1 yr"
+  },
+  {
+    "name": "ORELLANA, JORGE, ALBERTO",
+    "cdc": "G22593",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ORTIZ, FERNANDO",
+    "cdc": "H17241",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "PORTER, LARRY, JAMES",
+    "cdc": "C46380",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "PRICE, CARL, ERIC",
+    "cdc": "AB2762",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "RAYMOND, EDWARD, CARDINAL",
+    "cdc": "C94859",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kings,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "RICOVERA, PEDRO",
+    "cdc": "D97111",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Continue 6 mo"
+  },
+  {
+    "name": "SANDERSON, RANDY, A",
+    "cdc": "K16091",
+    "in-person": "Yes",
+    "commitment-county": "Sacramento",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "SCHELL, TERRY, PAUL, JR.",
+    "cdc": "T29151",
+    "in-person": "Yes",
+    "commitment-county": "Ventura",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "SINGH, PARDEEP",
+    "cdc": "BS1555",
+    "in-person": "No",
+    "commitment-county": "Stanislaus",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SULLIVAN, REUBEN, JEROME",
+    "cdc": "B41906",
+    "in-person": "No",
+    "commitment-county": "San Joaquin,Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "TUNIS, PAUL, LOREN",
+    "cdc": "K50213",
+    "in-person": "No",
+    "commitment-county": "Ventura",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "VILLANUEVA, SALVADOR, JAY, JR",
+    "cdc": "G06839",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "VITALE, ANTONIO",
+    "cdc": "V75451",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "WATKINS, MARTIN, RAY",
+    "cdc": "E43650",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Del Norte,Lassen",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "WEBB, JEROME, WILLIAM",
+    "cdc": "K26616",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kings,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "WILLIAMS, BILLY, RAY",
+    "cdc": "T30237",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "WINTER, JARED, RICHARD",
+    "cdc": "AM0385",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "ZELEDON, NELSON",
+    "cdc": "F45723",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "ZELLER, ROGER, C",
+    "cdc": "C53728",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-09",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ALLEN, CARTER, LEE",
+    "cdc": "J74890",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "ANDERSON, KARIS, LEMICHAEL",
+    "cdc": "K08881",
+    "in-person": "No",
+    "commitment-county": "San Diego,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "ANDREWS, MORGAN, JOHN",
+    "cdc": "T56754",
+    "in-person": "No",
+    "commitment-county": "Butte",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "ARMAS-BONILLA, ARTURO",
+    "cdc": "BD9108",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ATKINSON, RICHARD, EDWARD",
+    "cdc": "G09938",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Monterey,Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "AUSTIN, ANDREW, SPOTTWOOD",
+    "cdc": "V94573",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "BILLIE, KURT, KAYE",
+    "cdc": "AP7719",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "BRANDON, MARLON, JR.",
+    "cdc": "V99832",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "BRUNK, DONALD, DAVID",
+    "cdc": "K40399",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "CASTILLO, MANUEL, PAUL",
+    "cdc": "P89978",
+    "in-person": "No",
+    "commitment-county": "San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CHATMAN, DAVID, J",
+    "cdc": "H44149",
+    "in-person": "No",
+    "commitment-county": "San Francisco",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "CLARK, AL, RICKEY",
+    "cdc": "C35445",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "DAVIS, TAVON, CAPREE",
+    "cdc": "AN9799",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "DESCARTES, MICHAEL, ANGELO",
+    "cdc": "K71835",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 5 yr"
+  },
+  {
+    "name": "ELLIS, CLIFFORD, LEE",
+    "cdc": "V54889",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "GARCIA, HERIBERTO",
+    "cdc": "G36724",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "GUZMAN, JUAN, CISNEROS",
+    "cdc": "T09167",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "HANSEN, RANDY, JAY",
+    "cdc": "BJ7385",
+    "in-person": "No",
+    "commitment-county": "Nevada",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "JERNIGAN, DAVID",
+    "cdc": "H40493",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "JOHNSON, JARRELL, JEROME",
+    "cdc": "T20802",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "JONES, RODNEY, CALVIN",
+    "cdc": "E01343",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "KRUZIK, JOSHUA",
+    "cdc": "AN5635",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "LAMBERT, SHAUN, DAVID",
+    "cdc": "J04003",
+    "in-person": "No",
+    "commitment-county": "Kern,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "LEACH, PETER, ALLEN",
+    "cdc": "E12772",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "LOPEZ, JUAN, ABOYTES",
+    "cdc": "E48447",
+    "in-person": "No",
+    "commitment-county": "Monterey,Santa Cruz",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Reconsideration",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MADRIGAL, AUGUSTIN, NAVA",
+    "cdc": "P37323",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MARK, ANGELO, ANTONIO",
+    "cdc": "V86147",
+    "in-person": "No",
+    "commitment-county": "San Diego,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MAZARIEGOS, WALTER, WILFO",
+    "cdc": "AZ0824",
+    "in-person": "No",
+    "commitment-county": "Marin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MAZZEI, PAUL, WILLIAM",
+    "cdc": "F17829",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "MCINERNEY, BRANDON",
+    "cdc": "AK7143",
+    "in-person": "No",
+    "commitment-county": "Ventura",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MEZA, JOSE, CARLOS",
+    "cdc": "AB6918",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "MEZA, RAMON, DIEGO",
+    "cdc": "T99838",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "MONTEZ, RONALD, THOMAS",
+    "cdc": "BG3202",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MUNOZ, GERRARDO, PADILLA",
+    "cdc": "J24136",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "QUESTO, KASEY, ALLEN",
+    "cdc": "BI2405",
+    "in-person": "No",
+    "commitment-county": "Tuolumne,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "ROMERO, EVED, VIRELES",
+    "cdc": "G15175",
+    "in-person": "No",
+    "commitment-county": "Stanislaus,Amador,Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "ROMERO, NELSON, CAZAREZ",
+    "cdc": "T96973",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "SANCHEZ, DAVID, MORENO",
+    "cdc": "AV4943",
+    "in-person": "No",
+    "commitment-county": "Santa Cruz",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SANCHEZ, EDWARD, JR",
+    "cdc": "K62067",
+    "in-person": "No",
+    "commitment-county": "Sacramento,Amador",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "SANTILLANO, JESUS",
+    "cdc": "T95349",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 10 yr"
+  },
+  {
+    "name": "SHAHEED, KARRIEM",
+    "cdc": "H65017",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SHOTWELL, MANUEL, EUGENE",
+    "cdc": "T57486",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "STEED, JAMES, DALTON",
+    "cdc": "J66537",
+    "in-person": "No",
+    "commitment-county": "Del Norte,San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "TERRY, PIERRE, MARTEL",
+    "cdc": "AL9689",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "THIESSEN, DOUGLAS, L",
+    "cdc": "T74429",
+    "in-person": "No",
+    "commitment-county": "Stanislaus",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "TORRES, VICTOR, YAVE",
+    "cdc": "AT7775",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "WILKERSON, CARLOS",
+    "cdc": "F34690",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "WILLIAMS, EDWARD, JAMES",
+    "cdc": "T68368",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "WILLIAMS, ERIC, LAMARR",
+    "cdc": "F37036",
+    "in-person": "No",
+    "commitment-county": "San Bernardino,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-10",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "AGUIRRE, RICHARD",
+    "cdc": "C46743",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "AGUIRRE, RICHARD, JOHN, JR",
+    "cdc": "E58187",
+    "in-person": "No",
+    "commitment-county": "San Diego,Tuolumne,Amador",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "AMEZCUA, DANIEL, DELGADO",
+    "cdc": "H72410",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ATKINSON, RICHARD, EDWARD",
+    "cdc": "G09938",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Monterey,Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ATTEBURY, RAYLON, SHANE",
+    "cdc": "E30402",
+    "in-person": "No",
+    "commitment-county": "Kern,Kings,Butte,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "BERNAL, ERIKA",
+    "cdc": "X24031",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "BROWN, VERNON, CASSLE",
+    "cdc": "T15629",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CAMPBELL, SENARBLE, DEMONZE",
+    "cdc": "H90841",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CARRILLO, ALEJANDRO",
+    "cdc": "F11989",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "CHAGOLLA, RAYMUNDO, JOSE",
+    "cdc": "P94912",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "DOMINGUEZ, HECTOR, JOEL",
+    "cdc": "AG6893",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "DORRIS, DENNIS, DARRELL",
+    "cdc": "K19896",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "FARNUM, DANNIE, JOE",
+    "cdc": "AK5143",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "FIGUEROA, MAYRA",
+    "cdc": "W83425",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Madera",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "FIORELLA, JOSEPH, LEO",
+    "cdc": "K45229",
+    "in-person": "No",
+    "commitment-county": "San Luis Obispo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "FRANKLIN, JEFFREY, ANTHONY",
+    "cdc": "C08545",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 5 yr"
+  },
+  {
+    "name": "FREELON, KARL, RAY",
+    "cdc": "C27142",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GOMEZ, ALEJANDRO",
+    "cdc": "V77610",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "GONZALEZ, JUAN, CARLOS",
+    "cdc": "F49237",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "GOODSON, MICHAEL, RAYMOND",
+    "cdc": "D74674",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "GOOSEN, DALLAS, ROSS",
+    "cdc": "H97265",
+    "in-person": "No",
+    "commitment-county": "Sonoma",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "HERNANDEZ, JAVIER, AYALA",
+    "cdc": "K21484",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "HERNANDEZ, LARRY",
+    "cdc": "K10786",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HIDALGO, JOSE, RENE",
+    "cdc": "H43269",
+    "in-person": "No",
+    "commitment-county": "Orange,Monterey",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "HOOD, CEDRIC, DESMOND",
+    "cdc": "V23118",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "IVORY, CLARENCE, EUGENE",
+    "cdc": "T51922",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "JIMMEYE, ELLIX, RODRIGUEZ, III",
+    "cdc": "T52534",
+    "in-person": "No",
+    "commitment-county": "Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "JOHNSON, KYLE, MARQUS",
+    "cdc": "H53468",
+    "in-person": "No",
+    "commitment-county": "Sacramento,Yolo,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "JONES, BRUCE, ERIN",
+    "cdc": "D02858",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "JUSTO, FRANK",
+    "cdc": "BF8249",
+    "in-person": "No",
+    "commitment-county": "San Benito",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "LANDRY, SAMUEL",
+    "cdc": "D16449",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,San Francisco",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MARTINEZ, BRIAN, STEVEN",
+    "cdc": "AD3103",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MCCUTTING, SHELTON, ERNIE",
+    "cdc": "J89201",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MCPHERSON, VON, LADERAS",
+    "cdc": "K76916",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "MORALES, ROBERT",
+    "cdc": "V49333",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "PEREZ, EMILIANO",
+    "cdc": "AI0159",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "PORTER, FREDDIE, LEE",
+    "cdc": "P81175",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "PRINGLE, DAVID",
+    "cdc": "C91680",
+    "in-person": "No",
+    "commitment-county": "San Diego,Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "RAMIREZ, FRANCISCO, H",
+    "cdc": "F38437",
+    "in-person": "No",
+    "commitment-county": "San Francisco",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SILVA, JOHN, LESLIE",
+    "cdc": "C22097",
+    "in-person": "No",
+    "commitment-county": "San Luis Obispo,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SMITH, CORNELIUS",
+    "cdc": "AA6959",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "STANFORD, JOSEPH",
+    "cdc": "BJ1796",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "TAFT, DAVID, O’HARA",
+    "cdc": "D35799",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern,Kings,Lassen",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "TITTLE, CHASE, ADONIS",
+    "cdc": "X17501",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "TORRES, ALBERT",
+    "cdc": "AU2987",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "VALLE, HECTOR, RUBEN",
+    "cdc": "AT4685",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "WASHINGTON, GEORGE, EDWARD",
+    "cdc": "D66489",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "WILLIAMS, BRUCE, PHILLIP",
+    "cdc": "J66700",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "YNIGUEZ, ROBERT, ALLEN",
+    "cdc": "BK8298",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-11",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ABURTO, HECTOR, HUGO",
+    "cdc": "T76571",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "ACEITUNO, MAYNOR, GEOVANI",
+    "cdc": "T82426",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ALFARO, JOSE",
+    "cdc": "H33046",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "ASBURY, EDMUND, ARTHUR",
+    "cdc": "C88317",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "BERMUDES, TEODOLO, GALLARDO",
+    "cdc": "K14863",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Rescission",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "BURNIAS, SANTOS, JR",
+    "cdc": "C85301",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CANNON, KELVIN",
+    "cdc": "K16600",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "CANTWELL, JUSTIN, DEAN",
+    "cdc": "T60307",
+    "in-person": "No",
+    "commitment-county": "Kern,Amador,Butte",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CARRETO-VASQUEZ, RAUL",
+    "cdc": "G22143",
+    "in-person": "No",
+    "commitment-county": "San Mateo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CASAS, MANUEL, ROGERO",
+    "cdc": "V17212",
+    "in-person": "No",
+    "commitment-county": "Mendocino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CRUZ, DANIEL, ISADORE",
+    "cdc": "K54445",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CURRIER, STEVEN, BURDELL",
+    "cdc": "D08388",
+    "in-person": "No",
+    "commitment-county": "Glenn",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "DURAN, LUIS, ALBERTO",
+    "cdc": "AH1954",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "EASTMAN, THOMAS, RAY",
+    "cdc": "C46268",
+    "in-person": "No",
+    "commitment-county": "Contra Costa",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "ESPINOZA, DANIEL, MARTINEZ",
+    "cdc": "V39681",
+    "in-person": "No",
+    "commitment-county": "Imperial,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "FRAMPTON, DANIEL, DAVID",
+    "cdc": "C81547",
+    "in-person": "No",
+    "commitment-county": "Napa,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "FURLAN, MARC, ANTHONY",
+    "cdc": "BA6905",
+    "in-person": "No",
+    "commitment-county": "San Mateo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "GREGG, RONALD, DEAN",
+    "cdc": "P18479",
+    "in-person": "No",
+    "commitment-county": "Humboldt",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "HARRIS, GARY, ALEXANDER",
+    "cdc": "K75607",
+    "in-person": "No",
+    "commitment-county": "Butte",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "HINES, EUGENE, THOMAS",
+    "cdc": "E08855",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "LINVILLE, PAIGE, TILLIE",
+    "cdc": "WE7976",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "MERCADO, JOHNNY, ORLANDO",
+    "cdc": "H92413",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "NELSON, SAMUEL, MOSES",
+    "cdc": "G12688",
+    "in-person": "No",
+    "commitment-county": "Orange,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Rescission",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "PAGE, JOE",
+    "cdc": "D04452",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "RAMIREZ, PAUL, ALBERT",
+    "cdc": "H20721",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "ROSS, MARLIN",
+    "cdc": "H37379",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,San Luis Obispo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SCHOLZ, IDEE, LEE",
+    "cdc": "WG3445",
+    "in-person": "No",
+    "commitment-county": "Ventura",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SINGLETON, LAMAR, SR.",
+    "cdc": "T28961",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Amador",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SLONE, TONY",
+    "cdc": "AD6522",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "SOTOMAYOR, ELIANA",
+    "cdc": "X29867",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-18",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "ANDERSON, JERRY",
+    "cdc": "BB1668",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BAEZA, JUAN, MANUEL",
+    "cdc": "P36936",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BARAJAS, JESUS, CEJA",
+    "cdc": "T00729",
+    "in-person": "No",
+    "commitment-county": "Monterey",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "BARRON, GREGORY, SCOTT",
+    "cdc": "J90937",
+    "in-person": "No",
+    "commitment-county": "Orange,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "BAYNE, ALEXANDRIA, MARIE",
+    "cdc": "WG5860",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "BELFIELD, ROBERT, LEEAARON",
+    "cdc": "AV7980",
+    "in-person": "No",
+    "commitment-county": "Stanislaus",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CASAS, MANUEL, ROGERO",
+    "cdc": "V17212",
+    "in-person": "No",
+    "commitment-county": "Mendocino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "FONTENOT, ARTHUR, SYLVER",
+    "cdc": "BM3181",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Reconsideration",
+    "result": "Deny 1 yr"
+  },
+  {
+    "name": "GARCIA, MICHAEL, RAY",
+    "cdc": "V59892",
+    "in-person": "No",
+    "commitment-county": "Del Norte,Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "GONZALEZ, CHRISTOPHER",
+    "cdc": "F63951",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "GUTIERREZ, JUAN, MIGUEL",
+    "cdc": "T77284",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 5 yr"
+  },
+  {
+    "name": "HENDRIX, JAMES, DUELL",
+    "cdc": "D02475",
+    "in-person": "No",
+    "commitment-county": "Madera,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HENSON, DONALD, RAYE",
+    "cdc": "T71008",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "JAUREGUI, RUBEN",
+    "cdc": "F64074",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial,Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "LAWSON, RODNEY, JOSEPH, JR.",
+    "cdc": "T88305",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "LEE, PATRICK, GERALD, JR.",
+    "cdc": "V87799",
+    "in-person": "No",
+    "commitment-county": "Shasta",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MANLEY, NABIL, IBN",
+    "cdc": "K03240",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "NERO, BENNIE, TRIMALE",
+    "cdc": "G10648",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Del Norte",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "NIX, ADAM, HENRY",
+    "cdc": "J65480",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "OLEA, DANIEL, DAVID",
+    "cdc": "AV6381",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ORTEGA, LEONARDO, XIQUE",
+    "cdc": "G36833",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "PARKER, ERIC, ANTHONY",
+    "cdc": "H10338",
+    "in-person": "No",
+    "commitment-county": "Kings,Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "PEREZ, ROBERT",
+    "cdc": "P33986",
+    "in-person": "No",
+    "commitment-county": "Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "RESER, DANA, PAUL",
+    "cdc": "K63443",
+    "in-person": "No",
+    "commitment-county": "Marin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "ROACH, LARRY, WADE, JR.",
+    "cdc": "V50377",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "RUSK, DANIEL, DEWAYNE",
+    "cdc": "J68423",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SANCHEZ, DAVID, ERNESTO",
+    "cdc": "G32132",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SCHAEFER, TONYA, MAE",
+    "cdc": "X30339",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "SHRECKENGOSH, JAMES",
+    "cdc": "BR3377",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Reconsideration",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SIMMONS, DE ANTHONY, L",
+    "cdc": "T70109",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 7 yr"
+  },
+  {
+    "name": "STEPHENSON, WALTER, TIMOTHY",
+    "cdc": "C30901",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "TERRELL, NORRIS",
+    "cdc": "AS6931",
+    "in-person": "No",
+    "commitment-county": "Kings,Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "TYLER, JUAN, T",
+    "cdc": "BD2879",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "VASQUEZ, ALBERTO, RINCON",
+    "cdc": "F69610",
+    "in-person": "No",
+    "commitment-county": "Orange,Imperial,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "VENIALE, JEREMIAH, ISAAC",
+    "cdc": "AL5397",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "VINSON, ROOSEVELT, VIRGIL",
+    "cdc": "C48097",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "WILLARD, CHARLES",
+    "cdc": "C36206",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "WILLOVER, NORMAN",
+    "cdc": "P36723",
+    "in-person": "No",
+    "commitment-county": "Monterey",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-19",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "ADAME, SAMUEL",
+    "cdc": "T29545",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "AMAYA, LUIS, MARTINEZ",
+    "cdc": "V72955",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "AMPARO, MARCOS, ANTONIO",
+    "cdc": "T66640",
+    "in-person": "No",
+    "commitment-county": "Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ASBERRY, TONY",
+    "cdc": "P63853",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BATES, WILLIAM, CHARLES",
+    "cdc": "F77476",
+    "in-person": "No",
+    "commitment-county": "San Bernardino,Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "BORUNDA, DANIEL, WILLIAM",
+    "cdc": "E56371",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CHAVEZ, GERARDO",
+    "cdc": "AH4955",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CLEMMONS, ALTON, WILLIAM",
+    "cdc": "D33477",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Fresno",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "CORDOVA, BRANDI, LYNN",
+    "cdc": "AE2190",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ESPARZA, JAVIER, DAVID",
+    "cdc": "BC6441",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "ESPINOSA, JORGE",
+    "cdc": "AF1562",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,San Bernardino,Sacramento,Amador",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "ESQUIVEL, GABRIEL, MENDIVIL",
+    "cdc": "K30336",
+    "in-person": "No",
+    "commitment-county": "San Diego,Kings",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "FIORELLA, JOSEPH, LEO",
+    "cdc": "K45229",
+    "in-person": "No",
+    "commitment-county": "San Luis Obispo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "FISHER, KEVIN, EUGENE",
+    "cdc": "D22512",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "FLORES, JOSEPH, LOUIS",
+    "cdc": "BC0039",
+    "in-person": "No",
+    "commitment-county": "Lake",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Reconsideration",
+    "result": "Deny 1 yr"
+  },
+  {
+    "name": "GALEANA, OMAR, ALEJANDRO",
+    "cdc": "AD8547",
+    "in-person": "No",
+    "commitment-county": "Kern,Tulare",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "GONZALEZ, LUIS, EDGARDO",
+    "cdc": "H93414",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "GREEN, JOSE, ROMERO",
+    "cdc": "AZ3200",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GUTIERREZ-ESPARZA, SALVADOR",
+    "cdc": "BG6892",
+    "in-person": "No",
+    "commitment-county": "Stanislaus",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Reconsideration",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "HA, HOA, QUANG",
+    "cdc": "K90907",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "HARVEY, MARK, STEVEN",
+    "cdc": "AD6830",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "HERNANDEZ, LALY, SUZE",
+    "cdc": "V85293",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HEU, DANNY",
+    "cdc": "AG4111",
+    "in-person": "No",
+    "commitment-county": "Kings,Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "JACKSON, LARRY, GENE",
+    "cdc": "F53424",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "JUSTICE, ANTHONY, CURTIS",
+    "cdc": "C01405",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "KAEMPF, MICHAEL",
+    "cdc": "F46766",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "LOPEZ, DAVID, MORENO",
+    "cdc": "D24657",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "LOR, YONG",
+    "cdc": "V63526",
+    "in-person": "No",
+    "commitment-county": "Sacramento,Lassen",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MCKENNA, EDWARD, PHILLIP",
+    "cdc": "T52447",
+    "in-person": "No",
+    "commitment-county": "Orange,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MENDEZ, RICARDO, ANTONIO",
+    "cdc": "BH7794",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MEZA, RAUL, S",
+    "cdc": "F00364",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "MOORE, ELIOT, GEORGE",
+    "cdc": "CC3124",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MORGAN, ELIZAH, RAYMOND",
+    "cdc": "K68158",
+    "in-person": "No",
+    "commitment-county": "Contra Costa",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "MUNETON, ROBERT, NASER",
+    "cdc": "K73903",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "NOCHES, LUIS, MANUEL",
+    "cdc": "AK5586",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "OLIVERAS, RAUL",
+    "cdc": "T29655",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ORTIZ, SAMUEL",
+    "cdc": "C71940",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "OSUNA, FLORENTINO, FELIX",
+    "cdc": "AD0376",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "PORTER, DOMINICK, JEROME",
+    "cdc": "G59913",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "ROBERTS, MONTERIO",
+    "cdc": "BA2326",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "RODRIGUEZ, ELIJAH",
+    "cdc": "BI6542",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ROSS, DAVID, RANDALL",
+    "cdc": "H93898",
+    "in-person": "No",
+    "commitment-county": "Ventura",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "RUBIO, RICARDO",
+    "cdc": "J22936",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "SHOLLY, JOHN, ROBERT",
+    "cdc": "F87844",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 5 yr"
+  },
+  {
+    "name": "SORIA, JUAN, RODRIGUEZ",
+    "cdc": "F30078",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "SOTO, JOSE, MEDINA",
+    "cdc": "AM9631",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "STEPHENSON, WALTER, TIMOTHY",
+    "cdc": "C30901",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "STEWART, LEE, WILLIE",
+    "cdc": "F29877",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "VALDEZ, JESSE",
+    "cdc": "AM3707",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-23",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "AGUILERA, WILLIAM",
+    "cdc": "P26315",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BECERRA, EDWARD",
+    "cdc": "BE9259",
+    "in-person": "No",
+    "commitment-county": "Ventura",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "BRYAN, WILLIAM, JOSEPH",
+    "cdc": "C56996",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 10 mo"
+  },
+  {
+    "name": "CASILLAS, JOSEPH",
+    "cdc": "H63351",
+    "in-person": "No",
+    "commitment-county": "Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CHAGOLLA, RAYMUNDO, JOSE",
+    "cdc": "P94912",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CLAYTON, DEANDRE, L",
+    "cdc": "T46320",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "CUNNINGHAM, CHRISTOPHER, JAMES, JR",
+    "cdc": "AL4330",
+    "in-person": "No",
+    "commitment-county": "San Diego,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "DAVIS, EDDIE",
+    "cdc": "F43912",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "DEGEORGE, JUAN, EDUARDO",
+    "cdc": "C10132",
+    "in-person": "No",
+    "commitment-county": "Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "FIERRO, JOSEPH, RAY",
+    "cdc": "C64672",
+    "in-person": "No",
+    "commitment-county": "Del Norte,San Bernardino",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "HARRELL, JOHN, DAVID",
+    "cdc": "K81198",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "HASKELL, MAURICE, ADAM",
+    "cdc": "AR4299",
+    "in-person": "No",
+    "commitment-county": "Kern,Marin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "HICKS, ANTHONY",
+    "cdc": "AK6667",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "JOHNSON, AYLWIN, DWAYNE",
+    "cdc": "AN7199",
+    "in-person": "No",
+    "commitment-county": "Stanislaus",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "KERNS, LELAND, STANFORD, III",
+    "cdc": "AM8237",
+    "in-person": "No",
+    "commitment-county": "Madera",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "LAURO, JOE, A",
+    "cdc": "F05400",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MAHAN, RICKY",
+    "cdc": "T16946",
+    "in-person": "No",
+    "commitment-county": "San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MC CRAW, DEVON, MAURICE",
+    "cdc": "F75317",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MCCALLOCK, ROBERT, JAMES",
+    "cdc": "V32182",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MCCLURE, SUZETTE",
+    "cdc": "W69042",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MOFFITT, BRIAN, KENNETH",
+    "cdc": "AM0514",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MONCADO, CHRISTOPHER",
+    "cdc": "P40431",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MOSBY, CORY, WAYNE",
+    "cdc": "T69551",
+    "in-person": "No",
+    "commitment-county": "San Mateo",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MOUN, KOSAL",
+    "cdc": "V14972",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "NUNEZ, ISRAEL",
+    "cdc": "F85686",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "OCHOA, MANUEL, SALVADOR",
+    "cdc": "V10853",
+    "in-person": "No",
+    "commitment-county": "Orange,Lassen",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "REID, ROMEL, DEMETRIAS",
+    "cdc": "P09921",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "RODRIGUEZ, JOHN, GUTIERREZ",
+    "cdc": "F29694",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SHRECKENGOSH, JAMES",
+    "cdc": "BR3377",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Reconsideration",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SOLIS, OSVALDO, RENE",
+    "cdc": "G16700",
+    "in-person": "No",
+    "commitment-county": "Imperial,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SOOHOO, BRIAN, CHI",
+    "cdc": "T95960",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Amador",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "STRONG, KIERRE, TERRELL",
+    "cdc": "AN0487",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "VIRGEN, LUIS, ANTONIO",
+    "cdc": "P40372",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "WALKER, EDWARD",
+    "cdc": "D14408",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "WEBB, EUGENE, IRVING",
+    "cdc": "T30916",
+    "in-person": "No",
+    "commitment-county": "Contra Costa",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "WILRIDGE, EMANUEL",
+    "cdc": "AS9524",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Reconsideration",
+    "result": "Deny 1 yr"
+  },
+  {
+    "name": "WORTHEN, STEPHEN",
+    "cdc": "P79130",
+    "in-person": "No",
+    "commitment-county": "Monterey,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "WYRES, TROY",
+    "cdc": "D09424",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "ZECENA, FERNANDO, CASTRO",
+    "cdc": "BA5054",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-24",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "ACOSTA, ADRIAN, DARIO",
+    "cdc": "T70740",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BERRY, JEROME",
+    "cdc": "AS3154",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 6 mo"
+  },
+  {
+    "name": "BERRY-VIERWINDEN, RYAN, E",
+    "cdc": "AI2722",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "BRAWAND, THOMAS, MICHAEL",
+    "cdc": "F08662",
+    "in-person": "No",
+    "commitment-county": "Tuolumne",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "BREWER, ALEXANDER, MANUEL",
+    "cdc": "AM7772",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Split 3 yr"
+  },
+  {
+    "name": "BROWN, ANDRE, LAVELL",
+    "cdc": "J63261",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "BRUNO, NATHAN, CLAY",
+    "cdc": "P47020",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "BRYAN, REX, CARLTON",
+    "cdc": "E93085",
+    "in-person": "No",
+    "commitment-county": "Riverside,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CAMPBELL, SENARBLE, DEMONZE",
+    "cdc": "H90841",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "CASTILLO, EFRAIN",
+    "cdc": "F41546",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CLEMMONS, ALTON, WILLIAM",
+    "cdc": "D33477",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "FELIX, VINCENT, GUY",
+    "cdc": "T84625",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "GRACE, NASHAUN, OMAR",
+    "cdc": "P25035",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HARDY, KRISTIN, LEE",
+    "cdc": "AA8633",
+    "in-person": "No",
+    "commitment-county": "Imperial,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "HARPER, NICHOLAS, BRIAN",
+    "cdc": "AU1131",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HOLT, ANDRE",
+    "cdc": "D29627",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "HUCKABEE, ANTHONY, CRAIG",
+    "cdc": "K91527",
+    "in-person": "No",
+    "commitment-county": "El Dorado",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "IZALDO, EDUARDO",
+    "cdc": "F14362",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "JOHNSON, ROMEL, DAVON",
+    "cdc": "V99531",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "JONAS, JASON, ANDRE",
+    "cdc": "T65761",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "JONES, ROBERT, LAMONTE",
+    "cdc": "AB3303",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "KERLEY, LONNIE, JAMES",
+    "cdc": "AN4047",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MC INTOSH, DEANDRE, DAYTRON",
+    "cdc": "K52621",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "MENDEZ, ARTHUR, ERICK",
+    "cdc": "T21071",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "MORONES, RANDY",
+    "cdc": "P72155",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MUHAMMAD, LUKEMOND",
+    "cdc": "AR2186",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "NIBLETT, SHADEED, DWIGHT",
+    "cdc": "AL8504",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "NICHOLS, DAVID, ALLEN",
+    "cdc": "F99945",
+    "in-person": "No",
+    "commitment-county": "Placer",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Rescission",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "OCHOA, PACIANO, PENA",
+    "cdc": "H03961",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Split"
+  },
+  {
+    "name": "ROSEMAN, ROBERT, PHILLIP",
+    "cdc": "D08973",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SCOTT, JEROME, NORMAN",
+    "cdc": "F41852",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "SOTELO, JESSIE, JAMES",
+    "cdc": "AT5873",
+    "in-person": "No",
+    "commitment-county": "Monterey,Sutter",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "SUTTON, KARIMI, KWAA",
+    "cdc": "J71244",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "TATE, MELVIN, LORENZO",
+    "cdc": "T64724",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Amador",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "THOMAS, JESSICHA, TOMASINA",
+    "cdc": "WF6044",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "TORRES, EDDIE, ALDRETTE",
+    "cdc": "T68679",
+    "in-person": "No",
+    "commitment-county": "Tulare",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "VELIZ, ROBERT",
+    "cdc": "T54774",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-25",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "AGENT, DERRIC",
+    "cdc": "J82352",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "CHAVEZ, HUMBERTO, RAMOS",
+    "cdc": "C39160",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Marin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "DALY, JAMES, EDMOND",
+    "cdc": "F80213",
+    "in-person": "Yes",
+    "commitment-county": "Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "DANYEUR, ROBBIE, DESMOND",
+    "cdc": "BV3474",
+    "in-person": "No",
+    "commitment-county": "Shasta",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 3 yr"
+  },
+  {
+    "name": "DELVALLE, NEREO",
+    "cdc": "AK5318",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "EDWARDS, KADEEM",
+    "cdc": "BF6728",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "ESTEP, JAMES, ROBERT",
+    "cdc": "K60091",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "GOODE, WILLIAM",
+    "cdc": "F51994",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "GUZMAN, ALBERTO, SOLIS",
+    "cdc": "AG5833",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "HALL, KEITH, ALLEN",
+    "cdc": "P68990",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "JOHNSON, JARELL",
+    "cdc": "F51998",
+    "in-person": "No",
+    "commitment-county": "Alameda",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "LYONS, JAMES, EARL",
+    "cdc": "H28879",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "MARTIN, TYREL",
+    "cdc": "AV0871",
+    "in-person": "Yes",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Rescission",
+    "result": "No Good Cause"
+  },
+  {
+    "name": "MUNOZ, ROBIN, LEE",
+    "cdc": "H00606",
+    "in-person": "No",
+    "commitment-county": "Tuolumne,Monterey",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "NEAL, GREGORY",
+    "cdc": "D07651",
+    "in-person": "No",
+    "commitment-county": "San Bernardino,Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "NITKIN, JOSHUA, T",
+    "cdc": "AM4084",
+    "in-person": "No",
+    "commitment-county": "San Diego",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "OSORIO, JOSE, ALFREDO",
+    "cdc": "BH9637",
+    "in-person": "No",
+    "commitment-county": "Madera",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "PICH, SAMUEL",
+    "cdc": "V51833",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "RIVERA, OSCAR",
+    "cdc": "C66916",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "ROCKMORE, MONTE, MAURICE",
+    "cdc": "AE9788",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SALGADO, BRUCE, LEE",
+    "cdc": "AY4162",
+    "in-person": "No",
+    "commitment-county": "Santa Clara,Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "SERRANO, LORAINE",
+    "cdc": "X06033",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "STEWART, LEE, WILLIE",
+    "cdc": "F29877",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "VOGELSANG, GREGORY, LEE",
+    "cdc": "P55114",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Rescission",
+    "result": "Rescind  yr"
+  },
+  {
+    "name": "WILSON, GREGORY",
+    "cdc": "BJ4131",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-26",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "AGENT, DERRIC",
+    "cdc": "J82352",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "AUSTIN, LONNIE, LAMONT",
+    "cdc": "J92846",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "BELTRAN, FAUSTINO",
+    "cdc": "AR2091",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,San Joaquin",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "BUTLER, THOMAS",
+    "cdc": "D94870",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CARTER, IVAN, RAY",
+    "cdc": "J67814",
+    "in-person": "No",
+    "commitment-county": "Solano",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "CHAGOLLA, RAYMUNDO, JOSE",
+    "cdc": "P94912",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CHATMAN, KEVIN, LEMONT",
+    "cdc": "T94833",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "CHEVEZ, OSCAR, A",
+    "cdc": "T09490",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "CORONADO, JAMES, MARCUS",
+    "cdc": "J68013",
+    "in-person": "No",
+    "commitment-county": "Sacramento,Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "DOMINGO, KIRK, ANTHONY",
+    "cdc": "J66027",
+    "in-person": "No",
+    "commitment-county": "Mendocino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "ESTRADA, EDWARD",
+    "cdc": "T93936",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "FRITZ, BILLY, CORNELL",
+    "cdc": "E08830",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "GATES, DAVID, MARSHALL",
+    "cdc": "J60908",
+    "in-person": "No",
+    "commitment-county": "Nevada",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "GIECK, DENNIS, MICHAEL",
+    "cdc": "K76640",
+    "in-person": "No",
+    "commitment-county": "Riverside",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "GLASS, DONALD",
+    "cdc": "D54799",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Kern",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "HANNA, ROBERT, MICHAEL",
+    "cdc": "C52592",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "HINSON, BRAD, ALAN",
+    "cdc": "G25474",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "HOUSTON, DANIEL, PATRICK",
+    "cdc": "H88888",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "HOWARD, MICHAEL, PAUL",
+    "cdc": "AU5397",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "JIMENEZ, VICTOR, MANUEL",
+    "cdc": "G13901",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "KNIGHT, DWAYNE, HOWARD",
+    "cdc": "D30901",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "KNORR, THERESA, JIMMIE",
+    "cdc": "W59650",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "LANDI, MICHAEL, JERRY",
+    "cdc": "E31433",
+    "in-person": "No",
+    "commitment-county": "Santa Clara",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "LARA, MARIO",
+    "cdc": "F44702",
+    "in-person": "No",
+    "commitment-county": "Fresno",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "LAWSON, WILBUR, LAWTRON",
+    "cdc": "F66049",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "LINARES, LUIS",
+    "cdc": "K71324",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "LOCKLEY, ANTHONY, LANG",
+    "cdc": "J97391",
+    "in-person": "No",
+    "commitment-county": "Trinity",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MARIN, NASH, GOMEZ",
+    "cdc": "T18714",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "MARTINEZ, BRIAN, STEVEN",
+    "cdc": "AD3103",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Deny 3 yr"
+  },
+  {
+    "name": "MEDINA, JOSE",
+    "cdc": "K69372",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Lassen",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Stip 3 yr"
+  },
+  {
+    "name": "NUSH, DANIEL, PETER",
+    "cdc": "H36501",
+    "in-person": "Yes",
+    "commitment-county": "Merced",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Reconsideration",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "OCAMPO, ANTHONY, L",
+    "cdc": "G11221",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "PARTIDA, EPIFANIO",
+    "cdc": "K59825",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "RAMOS, MICHELL, AJURIA",
+    "cdc": "AR8420",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "RODRIGUEZ, DESIREE",
+    "cdc": "WG2611",
+    "in-person": "No",
+    "commitment-county": "Orange",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "SALCIDO, NICKOLAS",
+    "cdc": "T36231",
+    "in-person": "No",
+    "commitment-county": "Contra Costa",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
+    "name": "SMITH, TERRY",
+    "cdc": "T27377",
+    "in-person": "Yes",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Deny 5 yr"
+  },
+  {
+    "name": "SWEIGART, DARRELL, A",
+    "cdc": "B90590",
+    "in-person": "No",
+    "commitment-county": "Sacramento,San Francisco",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Postpone 0 mo"
+  },
+  {
+    "name": "TIDWELL, FREDRICK",
+    "cdc": "T92986",
+    "in-person": "No",
+    "commitment-county": "Sacramento",
+    "gov-code": "PC 3041.2",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "TIDWELL, JOSEPH, ALLEN",
+    "cdc": "F58524",
+    "in-person": "No",
+    "commitment-county": "San Bernardino",
+    "gov-code": "PC 3041.1",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Subsequent Suitability Hearing",
+    "result": "Grant"
+  },
+  {
+    "name": "WINGO, ANGELO",
+    "cdc": "AY6495",
+    "in-person": "No",
+    "commitment-county": "Los Angeles,Imperial",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 2 yr"
+  },
+  {
+    "name": "WRIGHT, ERIC, LEE",
+    "cdc": "F74135",
+    "in-person": "No",
+    "commitment-county": "Los Angeles",
+    "gov-code": "",
+    "scheduled-date": "2026-06-30",
+    "hearing-type": "Initial Suitability Hearing",
+    "result": "Waive 1 yr"
+  },
+  {
     "name": "OFFENDER NAME",
     "cdc": "CDC#",
     "commitment-county": "COUNTY OF COMMITMENT",
